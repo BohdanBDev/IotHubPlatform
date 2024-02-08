@@ -1,0 +1,15 @@
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\bin\Debug\net6.0\IotProj.exe
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\bin\Debug\net6.0\IotProj.deps.json
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\bin\Debug\net6.0\IotProj.runtimeconfig.json
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\bin\Debug\net6.0\IotProj.dll
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\bin\Debug\net6.0\IotProj.pdb
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\obj\Debug\net6.0\IotProj.csproj.AssemblyReference.cache
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\obj\Debug\net6.0\IotProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\obj\Debug\net6.0\IotProj.AssemblyInfoInputs.cache
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\obj\Debug\net6.0\IotProj.AssemblyInfo.cs
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\obj\Debug\net6.0\IotProj.csproj.CoreCompileInputs.cache
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\obj\Debug\net6.0\IotProj.dll
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\obj\Debug\net6.0\refint\IotProj.dll
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\obj\Debug\net6.0\IotProj.pdb
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\obj\Debug\net6.0\IotProj.genruntimeconfig.cache
+C:\Users\Hesher\source\repos\Bohdan(IoT proj)\IotProj\obj\Debug\net6.0\ref\IotProj.dll
